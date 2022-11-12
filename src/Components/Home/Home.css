@@ -1,0 +1,19 @@
+.backgroundhome{
+    background-color: #1abc9c ;
+    color: white;
+    text-align: center;
+    height:100vh;
+}
+.avatarstyle{
+    margin-top: 6%;
+}
+.home-title {
+    font-size:4.5rem;
+    font-weight:bold;
+}
+.divider-custom-line {
+    background-color: #fff;
+    width: 100px;
+    height: 5px;
+    border-radius: 5px;;
+}
